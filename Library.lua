@@ -15888,7 +15888,7 @@ function Library:CreateLoading(LoadingInfo)
         Parent = TitleHolder,
     })
     New("UIPadding", {
-        PaddingLeft = UDim.new(0, 6),
+        PaddingLeft = UDim.new(0, 4),
         Parent = TitleHolder,
     })
 
